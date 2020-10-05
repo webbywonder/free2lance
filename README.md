@@ -18,38 +18,29 @@ Built with PHP Codeigniter
 - `/application/migrations` is writeable
 
 ## Installation
-### Step 1: 
----
-Environment variables
+### Step 1: Environment variables
 ```bash
 cp .env.example .env
 ```
 Update all variables
 
-### Step 2: 
----
-Update .htaccess
-Change `RewriteBase /fc/` to `RewriteBase /<your-installation-dir>/`
-or
-You can keep it `RewriteBase /`
+### Step 2: Update .htaccess
+Change `RewriteBase /fc/` to `RewriteBase /<your-installation-dir>/`<br>
+or<br>
+You can keep it `RewriteBase /`<br>
 
-### Step 3:
----
-Run Application
+### Step 3: Run Application
 ```bash
 php -S localhost:8000
 ```
 
-### ### Step 4:
---- 
-Run Migrations, visit this url in browser
+### Step 4: Run Migrations
+Visit this url in browser
 ```
 <your-url>/migrate/now/install/
 ```
 
-### Step 5: 
----
-Done. 🍻 
+### Step 5: Done. 🍻 
 
 ## Screenshots
 ---
