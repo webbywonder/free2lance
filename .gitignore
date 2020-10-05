@@ -1,0 +1,4 @@
+.DS_Store
+
+application/ci_sessions/*
+application/logs/*
