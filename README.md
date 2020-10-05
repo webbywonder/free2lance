@@ -43,6 +43,7 @@ Visit this url in browser
 ### Step 5: Done. 🍻 
 
 ## Screenshots
+<img src="files/media/screenshot-3.png">
 <img src="files/media/screenshot.png">
 <img src="files/media/screenshot-2.png">
 
