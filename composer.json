@@ -1,0 +1,9 @@
+{
+    "require": {
+        "ezyang/htmlpurifier": "4.8",
+        "stripe/stripe-php": "^6.43",
+        "paquettg/php-html-parser": "^1.7",
+        "symfony/dotenv": "^4.3",
+        "dompdf/dompdf": "^0.8.3"
+    }
+}
