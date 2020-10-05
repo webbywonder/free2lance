@@ -1,6 +1,7 @@
 # Free2lance (Project Management Portal) 👨‍💻
 
-Built with PHP Codeigniter <img src="http://unmaintained.tech/badge.svg">
+Built with PHP Codeigniter <br>
+<img src="http://unmaintained.tech/badge.svg">
 
 ## Prerequisites
 - PHP 7.2+
