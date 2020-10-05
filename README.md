@@ -44,7 +44,7 @@ Visit this url in browser
 
 ## Screenshots
 ---
-<img src="files/media/screenshot.png" width="500">
-<img src="files/media/screenshot-2.png" width="500">
+<img src="files/media/screenshot.png">
+<img src="files/media/screenshot-2.png">
 
 That's all Folks. Enjoy.
